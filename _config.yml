@@ -1,0 +1,8 @@
+title: Sword of No Blade
+
+theme: peng-jekyll-theme
+
+include: [_pages]
+
+plugins:
+  - jekyll-seo-tag
