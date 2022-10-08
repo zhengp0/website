@@ -1,6 +1,6 @@
 title: Sword of No Blade
 
-theme: peng-jekyll-theme
+remote_theme: peng-jekyll-theme
 
 include: [_pages]
 
